@@ -6,9 +6,10 @@ I’m an aspiring **Cybersecurity Analyst** with a strong interest in **threat d
 
 ---
 
-🔭 **I’m currently working on**  
-**FTP vs SFTP Security Analysis Project**  
-A hands-on project analyzing plaintext versus encrypted file transfer protocols using packet capture and traffic inspection techniques.
+🔭 **Current Project**  
+**[FTP vs SFTP Security Analysis](https://github.com/Zoje-stack/FTP-vs-SFTP-Security-Analysis/tree/main)**  
+A hands-on project comparing insecure and secure file transfer protocols using packet capture to demonstrate data exposure and encryption.
+
 
 ---
 
@@ -46,6 +47,7 @@ Practical labs via **IBM Cybersecurity Analyst (Coursera)** and **TryHackMe SOC 
 
 👨‍💻 **Projects**  
 All of my cybersecurity labs and projects are available here:  
-- FTP vs SFTP Security Analysis Project
+-[FTP vs SFTP Security Analysis](https://github.com/Zoje-stack/FTP-vs-SFTP-Security-Analysis/tree/main)
+
 
 
