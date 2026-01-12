@@ -51,4 +51,5 @@ All of my cybersecurity labs and projects are available here:
 
 -[Password Cracking & Security Awareness](https://github.com/Zoje-stack/Password-Cracking-and-Security-Awareness-)
 
+-<a href="https://github.com/Zoje-stack/Network-Traffic-Analysis/blob/d947c16828b1a5df6f2c10083e7e09c44c115b38/README.md" target="_blank">Network Traffic Analysis</a>
 
